@@ -1,4 +1,4 @@
-## LangChain Chat with Your Data
+# LangChain Chat with Your Data
 
 ![image](https://github.com/imkushwaha/LangChain_Chat_with_Your_Data/assets/72372136/a29c95ee-ba3d-40e9-aeb2-eaa922173c3a)
 
@@ -21,7 +21,7 @@ venv\Scripts\activate.bat
 pip install -r requirements.txt
 ```
 
-#### Different componets:
+## Different componets:
 
 - **Document Loading**: How to use LangChain to load data from a variety of documents sources using LangChain's 80-plus different document loaders.
 - **Document Splitting**: After loading the documents, we split the documents into chunks and talk about a lot of the nuances that arrive when doing so.
